@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey there, I'm Luke! 👋
+
+I am a curious problem-solver with an eager passion for learning. 
+
+#### You can find me on:
+
+- [LinkedIn](https://www.linkedin.com/in/lukefiji/)
+- [Twitter](https://twitter.com/luke_fiji)
 
 <!--
 **lukefiji/lukefiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
