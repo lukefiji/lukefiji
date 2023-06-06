@@ -1,6 +1,6 @@
 ### Hey there, I'm Luke! 👋
 
-I am a curious problem-solver with an eager passion for learning. 
+⛵️ I am a curious adventurer on a never-ending journey of discovery and growth. 
 
 #### You can find me on:
 
