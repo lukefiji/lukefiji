@@ -4,6 +4,7 @@
 
 #### You can find me on:
 
+- [lukefiji.dev](https://lukefiji.dev)
 - [LinkedIn](https://www.linkedin.com/in/lukefiji/)
 - [Twitter](https://twitter.com/luke_fiji)
 
